@@ -1,0 +1,28 @@
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\bin\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\bin\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\obj\Debug\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC\LearningMVC\LearningMVC\obj\Debug\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\bin\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\bin\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\obj\Debug\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework\LearningMVCWithEntityFramework\LearningMVC\obj\Debug\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\bin\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\bin\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\obj\Debug\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EntityFramework Repository Pattern\LearningMVCWithEntityFrameworkRepPattern\LearningMVC\obj\Debug\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\bin\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\bin\LearningMVC.pdb
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\obj\Debug\LearningMVC.dll
+D:\Akhil Mittal\Articles and Blogs\MVC3 with EF Generic RepPattern and UnitOfWork\MVCWithEntityFrameworkGenericRepPattern\LearningMVC\obj\Debug\LearningMVC.pdb
